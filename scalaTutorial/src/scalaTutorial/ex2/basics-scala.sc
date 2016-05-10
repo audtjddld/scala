@@ -1,6 +1,6 @@
 package scalaTutorial.ex2
 
-object dasdfasdf {
+object basicsScala {
 	// 참조 강좌 https://www.youtube.com/watch?v=e3LHVMzNdLI&list=PLdzsTnb5Eq9-9--cYrpkoVbtJ-oKcGOlw
 
   println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
